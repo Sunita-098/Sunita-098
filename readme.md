@@ -7,21 +7,6 @@
 
 <!-- Animated Snake Game -->
 <svg viewBox="0 0 300 100" width="100%" height="120" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <style>
-      @keyframes slither {
-        0% { transform: translateX(-100px); }
-        50% { transform: translateX(0px); }
-        100% { transform: translateX(100px); }
-      }
-      @keyframes pulse {
-        0%, 100% { r: 4; }
-        50% { r: 6; }
-      }
-      .snake-body { animation: slither 3s infinite ease-in-out; }
-      .apple { animation: pulse 1s infinite; }
-    </style>
-  </defs>
   
   <!-- Ground -->
   <rect x="0" y="60" width="300" height="40" fill="#1a1a1a" rx="5"/>
