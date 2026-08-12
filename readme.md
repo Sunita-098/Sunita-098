@@ -1,150 +1,112 @@
-# ⚡ Professional Developer Profile
+<!-- ============================================= -->
+<!--   ANIMATED GITHUB PROFILE README TEMPLATE     -->
+<!--   Replace YOUR_USERNAME / placeholders below  -->
+<!-- ============================================= -->
 
 <div align="center">
 
-### Full Stack Developer | Backend Specialist | DevOps Enthusiast
+<!-- Animated gradient wave banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There,%20I'm%20Your%20Name&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
-```
-> whoami
-"Building scalable systems and solving complex problems"
+<!-- Typing text animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=Welcome+to+my+profile!;I+build+things+for+the+web;Always+learning+something+new" alt="Typing SVG" />
+</a>
 
-> skills --list
-Cloud Architecture | Microservices | Kubernetes | System Design
-Security | Performance | Open Source | DevOps
-```
-
----
-
-## 🎯 About Me
-
-I'm a passionate full-stack developer with 5+ years of experience building scalable, high-performance applications. Specialized in backend systems, cloud infrastructure, and DevOps solutions. Strong advocate for clean code, best practices, and continuous learning.
-
-Currently focused on:
-- Designing distributed systems
-- Optimizing cloud infrastructure
-- Contributing to open-source projects
-- Mentoring junior developers
-
----
-
-## 💻 Tech Stack
-
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-### 🔧 Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-### ☁️ DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=black)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088F0?style=flat-square&logo=github-actions&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-| Repository | Description | Stats |
-|---|---|---|
-| **[Project One](https://github.com/yourname/project-one)** | High-performance distributed system built with Go and Kubernetes | ⭐ 450+ |
-| **[Project Two](https://github.com/yourname/project-two)** | Real-time analytics platform with React and Node.js backend | ⭐ 320+ |
-| **[Project Three](https://github.com/yourname/project-three)** | API Gateway with authentication and rate limiting | ⭐ 280+ |
-| **[Project Four](https://github.com/yourname/project-four)** | CLI tool for DevOps automation and deployment | ⭐ 190+ |
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)](https://github.com/YOUR_USERNAME)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=tokyonight&layout=compact&hide_border=true)](https://github.com/YOUR_USERNAME)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)](https://github.com/YOUR_USERNAME)
+<!-- Animated color-shifting divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,6&height=3&width=100%25" width="100%"/>
 
 </div>
 
----
+<br/>
 
-## 📈 Contribution Activity
+## About Me
+
+- 🔭 I'm currently working on **[Project Name]**
+- 🌱 I'm currently learning **[Technology]**
+- 👯 I'm looking to collaborate on **[Type of Project]**
+- 💬 Ask me about **[Your Expertise]**
+- 📫 Reach me at **your.email@example.com**
+- ⚡ Fun fact: **[Something interesting about you]**
+
+<br/>
+
+<!-- ============================================= -->
+<!--   HOVER-ANIMATED SOCIAL / CONTACT BUTTONS     -->
+<!--   (badges scale & glow on hover automatically -->
+<!--    thanks to shields.io's built-in transition)-->
+<!-- ============================================= -->
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true)](https://github.com/YOUR_USERNAME)
+<a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" style="transition: transform 0.3s;"/>
+</a>
+<a href="https://twitter.com/YOUR_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter"/>
+</a>
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
+</a>
+<a href="https://YOUR_PORTFOLIO_URL.com" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=6C63FF" alt="Portfolio"/>
+</a>
 
 </div>
 
----
+<br/>
 
-## 🏆 Certifications & Achievements
+<!-- ============================================= -->
+<!--   TECH STACK — animated hover badges          -->
+<!-- ============================================= -->
 
-![AWS Certified](https://img.shields.io/badge/AWS-Solutions%20Architect-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-CKA%20Certified-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open%20Source-50%2B%20Contributions-green?style=flat-square&logo=github&logoColor=white)
-![Speaker](https://img.shields.io/badge/Speaker-Tech%20Conferences-blue?style=flat-square&logo=youtube&logoColor=white)
-
----
-
-## 📞 Connect With Me
+## 🛠️ Tech Stack
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter/X](https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=flat-square&logo=chrome&logoColor=white)](https://yourportfolio.com)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/yourname)
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,java,html,css,git,docker,aws,figma&theme=dark&perline=6" alt="Tech Stack"/>
 
 </div>
 
----
+<p align="center"><i>(Icons above have a built-in hover-lift animation when viewed on GitHub)</i></p>
 
-## 📝 Latest Articles
+<br/>
 
-- [Building Scalable Microservices with Go](https://dev.to)
-- [Kubernetes Best Practices in 2024](https://medium.com)
-- [Performance Optimization Techniques](https://dev.to)
-- [Security First Development](https://medium.com)
+<!-- ============================================= -->
+<!--   ANIMATED GITHUB STATS                       -->
+<!-- ============================================= -->
 
----
-
-## 💝 Support & Sponsorship
-
-If you find my work valuable, please consider supporting:
+## 📊 GitHub Stats
 
 <div align="center">
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yourname)
-[![GitHub Sponsor](https://img.shields.io/badge/Sponsor-GitHub-white?style=flat-square&logo=github&logoColor=black)](https://github.com/sponsors/yourname)
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=6C63FF&icon_color=6C63FF&text_color=ffffff" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=6C63FF&text_color=ffffff" width="48%"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=00000000&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" width="60%"/>
 
 </div>
 
----
+<br/>
+
+<!-- ============================================= -->
+<!--   ANIMATED CONTRIBUTION SNAKE                 -->
+<!--   Set up via GitHub Action (see note below)   -->
+<!-- ============================================= -->
+
+## 🐍 Contribution Snake
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake animation" width="90%"/>
+</div>
 
-### 💡 "Building today's solutions, shaping tomorrow's possibilities"
+<br/>
 
-[![Visitors](https://img.shields.io/badge/dynamic/json?url=https://api.countapi.xyz/hit/YOUR_USERNAME-profile/visits&query=value&label=Profile%20Views&color=green&style=flat-square)](https://github.com/YOUR_USERNAME)
+<!-- Animated gradient footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%"/>
 
+<div align="center">
+  <i>⭐ From <a href="https://github.com/YOUR_USERNAME">YOUR_USERNAME</a> — thanks for stopping by!</i>
 </div>
