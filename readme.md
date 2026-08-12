@@ -64,26 +64,26 @@ I'm a passionate developer who loves solving complex problems and building elega
 
 <div align="center">
 
-### 💬 Languages
+###  Languages
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1a1a1a" alt="JavaScript" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a1a" alt="Python" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1a1a1a" alt="TypeScript" />
 <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a1a1a" alt="HTML5" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1a1a1a" alt="CSS3" />
 
-### 🎨 Frontend
+###  Frontend
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=1a1a1a" alt="React" />
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=1a1a1a" alt="Vue" />
 <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=1a1a1a" alt="Tailwind" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=1a1a1a" alt="Next.js" />
 
-### ⚙️ Backend
+###  Backend
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=1a1a1a" alt="Node.js" />
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=1a1a1a" alt="Express" />
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=1a1a1a" alt="Django" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=1a1a1a" alt="FastAPI" />
 
-### 💾 Databases
+###  Databases
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1a1a1a" alt="MongoDB" />
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a1a1a" alt="PostgreSQL" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1a1a1a" alt="MySQL" />
@@ -99,11 +99,11 @@ I'm a passionate developer who loves solving complex problems and building elega
 
 ---
 
-## 🎯 Featured Projects
+##  Featured Projects
 
 <div align="center">
 
-### ⭐ [Awesome Project 1](https://github.com/yourname/project1)
+###  [Awesome Project 1](https://github.com/yourname/project1)
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
@@ -112,7 +112,7 @@ I'm a passionate developer who loves solving complex problems and building elega
 
 ---
 
-### ⭐ [Creative Project 2](https://github.com/yourname/project2)
+###  [Creative Project 2](https://github.com/yourname/project2)
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
@@ -132,7 +132,7 @@ I'm a passionate developer who loves solving complex problems and building elega
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
 
@@ -149,11 +149,11 @@ I'm a passionate developer who loves solving complex problems and building elega
 
 ---
 
-## 🏆 Achievements & Badges
+##  Achievements & Badges
 
 <div align="center">
 
-| 🥇 | Achievement | 📅 |
+|  | Achievement | |
 |:---:|:---:|:---:|
 | **Open Source Contributor** | Contributed to 15+ projects | 2024 |
 | **500+ Stars** | Personal repositories exceeded 500 stars | 2024 |
@@ -164,12 +164,12 @@ I'm a passionate developer who loves solving complex problems and building elega
 
 ---
 
-## 🎓 Learning & Growth
+##  Learning & Growth
 
 <div align="center">
 
 ```
-📚 Currently Learning:
+ Currently Learning:
 ┌─────────────────────────────┐
 │ • Web3 & Blockchain         │
 │ • Machine Learning (ML)     │
@@ -182,7 +182,7 @@ I'm a passionate developer who loves solving complex problems and building elega
 
 ---
 
-## 💡 Quick Stats
+##  Quick Stats
 
 <div align="center">
 
@@ -195,7 +195,7 @@ I'm a passionate developer who loves solving complex problems and building elega
 
 ---
 
-## 📝 Latest Blog Posts
+##  Latest Blog Posts
 
 <div align="center">
 
@@ -205,7 +205,7 @@ I'm a passionate developer who loves solving complex problems and building elega
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
