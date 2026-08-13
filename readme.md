@@ -1,188 +1,285 @@
-<!-- ============================================= -->
-<!--   ANIMATED GITHUB PROFILE README TEMPLATE     -->
-<!--   Replace YOUR_USERNAME / placeholders below  -->
-<!-- ============================================= -->
-<!-- ================= HEADER BANNER (animated gradient wave) ================= -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There,%20I'm%20Sunita%20Datiyana&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Building%20clean%2C%20scalable%20software&descAlignY=55&descSize=18" width="100%"/>
-</p>
-
-<!-- ================= ANIMATED TYPING TEXT ================= -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Hi%2C+I'm+Sunita+Datiyana;Software+Engineer;I+love+solving+real-world+problems+with+code." alt="Typing SVG" />
-  </a>
-</p>
-
-<!-- ================= PROFILE VIEWS / FOLLOWERS ================= -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sunita-datiyana&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/sunita-datiyana?label=Followers&style=for-the-badge&color=blueviolet" alt="followers" />
-</p>
-
-<!-- ================= SOCIAL BUTTONS ================= -->
-<p align="center">
-  <a href="https://linkedin.com/in/sunita-datiyana" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:sunita.datiyana@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
-  </a>
-  <a href="https://github.com/sunita-datiyana" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
-  </a>
-  <a href="https://your-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Portfolio"/>
-  </a>
-</p>
-
-<!-- ================= ABOUT ME ================= -->
-### 🚀 About Me
-- 👩‍💻 Software Engineer passionate about building clean, efficient, and scalable applications
-- 🔭 Currently working on **[project name]**
-- 🌱 Currently learning **[technology/skill]**
-- 💬 Ask me about **[your specialty — e.g. backend systems, web dev, DSA]**
-- 📫 Reach me at **sunita.datiyana@example.com**
-- ⚡ Fun fact: **[something interesting about you]**
-
-<!-- ================= TECH STACK (animated icon row) ================= -->
-### 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,java,html,css,git,mongodb,mysql,vscode&perline=6" alt="tech stack"/>
-</p>
-
-<!-- ================= GITHUB STATS ================= -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sunita-datiyana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunita-datiyana&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunita-datiyana&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages"/>
-</p>
-
-<!-- ================= ANIMATED CONTRIBUTION SNAKE ================= -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sunita-datiyana/sunita-datiyana/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
-</p>
-
-<blockquote align="center">
-  <sub>To enable the snake animation above: create a repo named exactly <code>sunita-datiyana</code>, then add the workflow from
-  <a href="https://github.com/Platane/snk">Platane/snk</a> — it auto-generates and commits this SVG on a schedule.</sub>
-</blockquote>
-
-<!-- ================= FOOTER WAVE ================= -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-</p>
-
-<p align="center">
-  <i>⭐️ Thanks for stopping by — feel free to explore my repos and connect!</i>
-</p>
 <div align="center">
+  
+<!-- Animated Title -->
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=600&lines=👋+Welcome+to+My+Profile!;💻+Full+Stack+Developer;🚀+Creative+Problem+Solver;✨+Tech+Enthusiast" alt="Typing SVG" />
+</h1>
 
-<!-- Animated gradient wave banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There,%20I'm%20Your%20Name&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<!-- Animated Snake Game -->
+<svg viewBox="0 0 300 100" width="100%" height="120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @keyframes slither {
+        0% { transform: translateX(-100px); }
+        50% { transform: translateX(0px); }
+        100% { transform: translateX(100px); }
+      }
+      @keyframes pulse {
+        0%, 100% { r: 4; }
+        50% { r: 6; }
+      }
+      .snake-body { animation: slither 3s infinite ease-in-out; }
+      .apple { animation: pulse 1s infinite; }
+    </style>
+  </defs>
+  
+  <!-- Ground -->
+  <rect x="0" y="60" width="300" height="40" fill="#1a1a1a" rx="5"/>
+  
+  <!-- Snake -->
+  <g class="snake-body">
+    <circle cx="80" cy="80" r="6" fill="#00FF00"/>
+    <circle cx="72" cy="80" r="5" fill="#00DD00"/>
+    <circle cx="64" cy="80" r="4" fill="#00BB00"/>
+    <circle cx="56" cy="80" r="3" fill="#009900"/>
+  </g>
+  
+  <!-- Apple -->
+  <circle class="apple" cx="150" cy="80" r="4" fill="#FF0000"/>
+  <line x1="150" y1="76" x2="150" y2="70" stroke="#228B22" stroke-width="1"/>
+</svg>
 
-<!-- Typing text animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=Welcome+to+my+profile!;I+build+things+for+the+web;Always+learning+something+new" alt="Typing SVG" />
-</a>
-
-<!-- Animated color-shifting divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,6&height=3&width=100%25" width="100%"/>
+---
 
 </div>
 
-<br/>
+<!-- Floating animated text -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=24&duration=4000&pause=800&color=00D4FF&center=true&vCenter=true&width=500&lines=Building+amazing+things+with+code...;Passionate+about+innovation;Creating+digital+experiences" alt="Typing SVG" />
+</h2>
 
-## About Me
+---
 
-- 🔭 I'm currently working on **[Project Name]**
-- 🌱 I'm currently learning **[Technology]**
-- 👯 I'm looking to collaborate on **[Type of Project]**
-- 💬 Ask me about **[Your Expertise]**
-- 📫 Reach me at **your.email@example.com**
-- ⚡ Fun fact: **[Something interesting about you]**
+## 🌟 About Me
 
-<br/>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <strong>💼 Experience</strong><br>
+        <em>5+ Years in Development</em>
+      </td>
+      <td>
+        <strong>🎯 Focus</strong><br>
+        <em>Web & Mobile Apps</em>
+      </td>
+      <td>
+        <strong>🌍 Location</strong><br>
+        <em>Global Remote</em>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<!-- ============================================= -->
-<!--   HOVER-ANIMATED SOCIAL / CONTACT BUTTONS     -->
-<!--   (badges scale & glow on hover automatically -->
-<!--    thanks to shields.io's built-in transition)-->
-<!-- ============================================= -->
+I'm a passionate developer who loves solving complex problems and building elegant solutions. My expertise spans across full-stack development, with a strong focus on creating user-centric applications that make an impact.
+
+---
+
+## 🛠️ Tech Stack (Animated)
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" style="transition: transform 0.3s;"/>
-</a>
-<a href="https://twitter.com/YOUR_USERNAME" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter"/>
-</a>
-<a href="mailto:your.email@example.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
-</a>
-<a href="https://YOUR_PORTFOLIO_URL.com" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=6C63FF" alt="Portfolio"/>
-</a>
+### 💬 Languages
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1a1a1a" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a1a" alt="Python" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1a1a1a" alt="TypeScript" />
+<img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a1a1a" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1a1a1a" alt="CSS3" />
+
+### 🎨 Frontend
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=1a1a1a" alt="React" />
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=1a1a1a" alt="Vue" />
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=1a1a1a" alt="Tailwind" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=1a1a1a" alt="Next.js" />
+
+### ⚙️ Backend
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=1a1a1a" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=1a1a1a" alt="Express" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=1a1a1a" alt="Django" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=1a1a1a" alt="FastAPI" />
+
+### 💾 Databases
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1a1a1a" alt="MongoDB" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a1a1a" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1a1a1a" alt="MySQL" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=1a1a1a" alt="Firebase" />
+
+### 🚀 Tools & DevOps
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1a1a1a" alt="Docker" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a1a" alt="Git" />
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=1a1a1a" alt="AWS" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" alt="GitHub" />
 
 </div>
 
-<br/>
+---
 
-<!-- ============================================= -->
-<!--   TECH STACK — animated hover badges          -->
-<!-- ============================================= -->
-
-## 🛠️ Tech Stack
+## 🎯 Featured Projects
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,java,html,css,git,docker,aws,figma&theme=dark&perline=6" alt="Tech Stack"/>
+### ⭐ [Awesome Project 1](https://github.com/yourname/project1)
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+
+**A revolutionary web application** that transforms user experience with cutting-edge technology. Features real-time updates, seamless UI, and powerful backend.
+
+---
+
+### ⭐ [Creative Project 2](https://github.com/yourname/project2)
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
+
+**An intelligent platform** designed to solve complex problems with elegance and simplicity. Scalable, secure, and user-friendly.
+
+---
+
+### ⭐ [Innovative Project 3](https://github.com/yourname/project3)
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+
+**A next-generation tool** for modern developers. Lightning-fast, beautiful, and packed with features that matter.
 
 </div>
 
-<p align="center"><i>(Icons above have a built-in hover-lift animation when viewed on GitHub)</i></p>
+---
 
-<br/>
-
-<!-- ============================================= -->
-<!--   ANIMATED GITHUB STATS                       -->
-<!-- ============================================= -->
-
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=6C63FF&icon_color=6C63FF&text_color=ffffff" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=6C63FF&text_color=ffffff" width="48%"/>
+<!-- Stats Card -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yourname&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=00D4FF&icon_color=FF69B4" />
 
-<br/>
+<!-- Top Languages Card -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourname&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=00D4FF" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=00000000&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" width="60%"/>
+<!-- Contribution Graph -->
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourname&theme=radical&hide_border=true&bg_color=0D1117&point=FF69B4&line=00D4FF)
 
 </div>
 
-<br/>
+---
 
-<!-- ============================================= -->
-<!--   ANIMATED CONTRIBUTION SNAKE                 -->
-<!--   Set up via GitHub Action (see note below)   -->
-<!-- ============================================= -->
-
-## 🐍 Contribution Snake
+## 🏆 Achievements & Badges
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake animation" width="90%"/>
+
+| 🥇 | Achievement | 📅 |
+|:---:|:---:|:---:|
+| **Open Source Contributor** | Contributed to 15+ projects | 2024 |
+| **500+ Stars** | Personal repositories exceeded 500 stars | 2024 |
+| **Tech Speaker** | Spoke at 5 major conferences | 2023-2024 |
+| **Problem Solver** | LeetCode: 300+ problems solved | Ongoing |
+
 </div>
 
-<br/>
+---
 
-<!-- Animated gradient footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%"/>
+## 🎓 Learning & Growth
 
 <div align="center">
-  <i>⭐ From <a href="https://github.com/YOUR_USERNAME">YOUR_USERNAME</a> — thanks for stopping by!</i>
+
+```
+📚 Currently Learning:
+┌─────────────────────────────┐
+│ • Web3 & Blockchain         │
+│ • Machine Learning (ML)     │
+│ • Cloud Architecture (AWS)  │
+│ • System Design             │
+└─────────────────────────────┘
+```
+
+</div>
+
+---
+
+## 💡 Quick Stats
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Code%20Time-10%2B%20Hours-orange?style=flat-square&logo=clockify" />
+<img src="https://img.shields.io/badge/Repositories-50%2B-blue?style=flat-square&logo=github" />
+<img src="https://img.shields.io/badge/Total%20Contributions-2000%2B-green?style=flat-square&logo=git" />
+<img src="https://img.shields.io/badge/Projects%20Completed-25%2B-purple?style=flat-square&logo=briefcase" />
+
+</div>
+
+---
+
+## 📝 Latest Blog Posts
+
+<div align="center">
+
+[![Blog](https://img.shields.io/badge/📖%20Read%20My%20Blog-Click%20Here-FF69B4?style=for-the-badge)](https://yourblog.com)
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://yourportfolio.com)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/yourhandle)
+
+</div>
+
+---
+
+## 💬 Fun Fact
+
+<div align="center">
+
+```
+"Code is poetry written in logic.
+ Every bug is a lesson,
+ Every project is a masterpiece."
+```
+
+<img src="https://img.shields.io/badge/Profile%20Views-Coming%20Soon-blue?style=flat" />
+
+</div>
+
+---
+
+## 🎨 My Philosophy
+
+<div align="center">
+
+```
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ CLEAN CODE + GREAT UX = SUCCESS┃
+┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
+┃ ✨ Write it right              ┃
+┃ 🚀 Ship it fast                ┃
+┃ 🎯 Impact it hard              ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+```
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ If you like my work, don't forget to star my repositories!
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=18&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&width=400&lines=Thanks+for+visiting!;Let's+build+amazing+things+together!;Happy+Coding!✨" alt="Thanks" />
+
+</div>
+
+---
+
+<div align="center">
+  
+**Made with ❤️ by [Your Name]**
+
 </div>
